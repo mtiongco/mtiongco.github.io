@@ -1,0 +1,25 @@
+---
+title: "Animations for 'Early dynamical evolution of rotating star clusters in a tidal field' by M. Tiongco, E. Vesperini, and A. L. Varri"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Simulation Parameters
+
+| Model ID | Q~ran~ | Q~rot~ | $\theta_{\omega,i}$ (degrees)|
+|----------|--------|--------|------------------------------|
+|Even th45 | 0.1    | 0.1    |45                            |
+|Even th90 |        |        |90                            |
+|Even th135|        |        |135                           |
+|Cold th45 | 0.05   | 0.1    |45                            |
+|Cold th90 |        |        |90                            |
+|Cold th135|        |        |135                           |
+|Slow th45 | 0.1    | 0.05   |45                            |
+|Slow th90 |        |        |90                            |
+|Slow th135|        |        |135                           |
+
+###Animations of Number Density and Line-of-Sight Velocities
+Even th45: [html](e45/index.html)
