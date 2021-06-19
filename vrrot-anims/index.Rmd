@@ -7,19 +7,18 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Simulation Parameters
+**Animations of Number Density (top panels) and Line-of-Sight Velocities (bottom panels)**
 
-| Model ID | Q~ran~ | Q~rot~ | $\theta_{\omega,i}$ (degrees)|
-|----------|--------|--------|------------------------------|
-|Even th45 | 0.1    | 0.1    |45                            |
-|Even th90 |        |        |90                            |
-|Even th135|        |        |135                           |
-|Cold th45 | 0.05   | 0.1    |45                            |
-|Cold th90 |        |        |90                            |
-|Cold th135|        |        |135                           |
-|Slow th45 | 0.1    | 0.05   |45                            |
-|Slow th90 |        |        |90                            |
-|Slow th135|        |        |135                           |
+| Model ID | Q~ran~ | Q~rot~ | $\theta_{\omega,i}$ (degrees)| Animation               | Zoomed-out              |
+| :-:      | :-:    | :-:    | :-:                          | :-:                     | :-:                     |
+|Even th45 | 0.1    | 0.1    |45                            | [html](e45/index.html)  | [html](e45z/index.html) |
+|Even th90 |        |        |90                            | [html](e90/index.html)  | [html](e90z/index.html)  |
+|Even th135|        |        |135                           | [html](e135/index.html) | [html](e135z/index.html) |
+|Cold th45 | 0.05   | 0.1    |45                            | [html](c45/index.html)  | [html](c45z/index.html)  |
+|Cold th90 |        |        |90                            | [html](c90/index.html)  | [html](c90z/index.html)  |
+|Cold th135|        |        |135                           | [html](c135/index.html) | [html](c135z/index.html) |
+|Slow th45 | 0.1    | 0.05   |45                            | [html](s45/index.html)  | [html](s45z/index.html)  |
+|Slow th90 |        |        |90                            | [html](s90/index.html)  | [html](s90z/index.html)  |
+|Slow th135|        |        |135                           | [html](s135/index.html) | [html](s135z/index.html) |
 
-###Animations of Number Density and Line-of-Sight Velocities
-Even th45: [html](e45/index.html)
+
