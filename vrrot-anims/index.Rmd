@@ -9,6 +9,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Animations of Number Density (top panels) and Line-of-Sight Velocities (bottom panels)**
 
+Animations can be navigated by with the arrow keys or web player buttons below the images.  The Speed buttons increase and decrease the speed of animation.
+
+These animations correspond to Fig. 1 and Fig. 2 (zoomed-out versions) of the paper.  Shown in the top panels are the projected number density (normalized to the densest region) along 3 different projections, and in the bottom panels, the line-of-sight (los) velocities in the corresponding projections to the top panels, with the contours of the projected number density overlaid, and the levels of each contour (outermost to innermost) are 10, 25, 125, and 500 stars per pixel.  The los velocities are normalized to $\Omega r_{\rm J,i}$, the speed of co-rotation at the initial Jacobi radius.  The vertical and horizontal axes are normalized to the 3d half-mass radius.  The red dotted line points from the centre of the cluster to the galactic centre.  White pixels in the bottom panels correspond to values either outside the range of the colourbar, or an absence of stars in that pixel.  Stars outside of the Jacobi radius are only included in the zoomed-out animations, and in those the red circle represents the Jacobi radius.
+
 | Model ID | Q~ran~ | Q~rot~ | $\theta_{\omega,i}$ (degrees)| Animation               | Zoomed-out              |
 | :-:      | :-:    | :-:    | :-:                          | :-:                     | :-:                     |
 |Even th45 | 0.1    | 0.1    |45                            | [html](e45/index.html)  | [html](e45z/index.html) |

@@ -1,0 +1,42 @@
+---
+title: Maria Tiongco
+output:
+  rmarkdown::html_document:
+    theme: journal
+---
+
+### Postdoctoral Associate at [JILA](https://jila.colorado.edu), University of Colorado, Boulder
+
+![](maria.jpg)
+
+#### Contact: maria.tiongco at colorado.edu
+
+#### Currently in [Ann-Marie Madigan](https://jila.colorado.edu/~madigan/)'s Research Group 
+
+#### Webpage Last Updated: July 20, 2021
+
+### [Curriculum Vitae](mtiongco-cv.pdf) (Last Updated: July 20, 2021)
+
+### [NASA ADS query](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22tiongco%2Cmaria%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+
+### [ORCID](https://orcid.org/0000-0003-1971-1809)
+
+### Research Interests
+- Gravitational Dynamics
+- N-body simulations
+- Globular clusters, particularly their internal kinematics
+- Small bodies in the outer Solar System
+
+### Recorded Presentations
+- [Science with Precision Astrometry Workshop at Space Telescope Science Institute (2018)](https://cloudproject.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9151f097-008a-4ec6-b5ce-a98d0183dc0f)
+- [AAS Division on Dynamical Astronomy Virtual Meeting (2020)](https://vimeo.com/442073415)
+
+### Frequently Used Tools (worth noting)
+- [NBODY6](https://people.ast.cam.ac.uk/~sverre/web/pages/nbody.htm) (N-body integrator)
+- [REBOUND](https://rebound.readthedocs.io/en/latest/) (N-body integrator)
+- [R](https://www.r-project.org)/[RStudio](https://www.rstudio.com) 
+- [reticulate](https://rstudio.github.io/reticulate/) package in R for calling Python
+
+***
+
+This website was built using [RStudio](https://www.rstudio.com) and [R Markdown](https://rmarkdown.rstudio.com).
