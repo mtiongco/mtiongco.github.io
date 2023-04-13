@@ -1,0 +1,24 @@
+---
+title: Animal Crossing New Horizons Villager Popularity
+author: Maria Tiongco
+output: 
+  rmarkdown::html_document:
+    theme: readable
+---
+
+***
+
+**Animal Crossing: New Horizons** is a life simulation game developed and published 
+by Nintendo for the Nintendo Switch, and the fifth main entry in the *Animal 
+Crossing* series.  The game went viral from its release during the global 
+stay-at-home orders during the COVID-19 pandemic.
+
+In the game, players create and control their character who lives on an initially 
+remote island with anthropomorphic animal neighbors.  The player has near total 
+control over the development of the island into a small community, and with 
+enough dedication and luck, can invite their favorite or "dream villagers" to live on their 
+island to complete one part their ideal community.
+
+
+
+
